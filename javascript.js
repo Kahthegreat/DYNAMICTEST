@@ -1,7 +1,7 @@
 (function() {
   var app = angular.module('Quickmune', []);
 
-  app.controller('', function(){
+  app.controller('testController', function(){
     this.product = vaccine;
   });
 
